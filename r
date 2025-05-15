@@ -43,3 +43,28 @@ Certified SAFe® 6 Product Owner/Product Manager, Scaled Agile Inc (2024)
 Certified Process Mining Analyst, Celonis (2021)
 
 Digital Marketing Certified Associate, Simplilearn (2017)
+
+
+
+
+
+
+Hexaware Technologies Ltd. – India
+
+Business Analyst, Legacy Modernization Program (LMP) Testing (Jun 2023 – Present)
+
+Business Analyst, AXA XL Brooklyn Broker Portal Project – Define Phase (Oct 2024 – Jan 2025)
+
+
+Estuate Software Pvt. Ltd. – India
+
+Lead Product Consultant, WF Policy, Billing & Claims Implementation (Jun 2022 – Mar 2023)
+
+
+Cognizant Technologies Pvt. Ltd. – India & US
+
+Lead Product Consultant, CIP Program (Jan 2017 – Apr 2022)
+
+Lead Consultant, RPE Upgrades (Mar 2016 – Dec 2016)
+
+             
