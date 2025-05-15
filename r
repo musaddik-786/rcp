@@ -68,3 +68,13 @@ Lead Product Consultant, CIP Program (Jan 2017 – Apr 2022)
 Lead Consultant, RPE Upgrades (Mar 2016 – Dec 2016)
 
              
+Hexaware Technologies Ltd.
+• Led end-to-end testing and functional analysis for a marine insurance client’s Legacy Modernization Program, including data feed validation, automation framework setup, and issue resolution across Azure Data Factory and AS400 systems.
+• Defined and refined high-level technical and functional requirements for a global broker portal and product configurator in the AXA XL project, spearheading JIRA epic/story creation, stakeholder workshops, wireframe design sessions, and sprint planning, ensuring regulatory compliance and user acceptance.
+
+Estuate Software Pvt. Ltd.
+• Delivered core insurance modules (Policy, Billing, Claims) for a US-based workplace benefits & special risk insurer using the Exigen® suite; led requirements gathering in SAFe PI planning, translated regulatory and underwriting rules into user stories, and collaborated with QA to validate complex rating and claims scenarios.
+
+Cognizant Technologies Pvt. Ltd.
+• Managed product requirements and regulatory filings for Auto and Excess Liability lines under the CIP Program, coordinating with underwriters to capture reinsurance treaty clauses, premium calculations, and claims handling rules; led user acceptance testing to verify premium integrity post-migration.
+• Oversaw enhancements to a Revenue Planning Engine for a global specialty insurer, translating actuarial budgeting needs into functional specifications, prioritizing defect fixes based on reinsurance cashflow impact, and ensuring alignment with IFRS reporting.
