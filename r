@@ -29,3 +29,17 @@ Senior Executive, Reinsurance Department: Managed Facultative Inward and Outward
 CGI Information Systems and Management Consultants Pvt. Ltd. (December 2021 – March 2023)
 
 Business Analyst: Worked in Property and Casualty Insurance domain, on Ratabase and Edge Policy Administration System.
+
+
+
+MBA, Sri Sathya Sai Institute of Higher Learning, Prasanthi Nilayam, Andhra Pradesh (2003–2005)
+
+BE in Electrical & Electronics Engineering, Amrita Institute of Technology and Science, Coimbatore, Tamil Nadu (1998–2002)
+
+Associate in General Insurance (AINS®), The Institutes (2015)
+
+Certified SAFe® 6 Product Owner/Product Manager, Scaled Agile Inc (2024)
+
+Certified Process Mining Analyst, Celonis (2021)
+
+Digital Marketing Certified Associate, Simplilearn (2017)
