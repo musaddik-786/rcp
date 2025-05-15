@@ -12,3 +12,20 @@ Experience: (For experience in last five (5) years, detail the types of activiti
 
 
 
+Hexaware Technologies (November 2023 – Present)
+
+Quality Assurance Analyst (April 2025 – Present): Worked on Claim Payment portal development.
+
+Business Analyst (September 2024 – January 2025): Involved in Broker Portal and Product Studio development.
+
+Business Analyst (May 2024 – August 2024): Worked on EUC Reports Migration project.
+
+Business Analyst (December 2023 – May 2024): Participated in Blueprint 2 Lloyd’s digitization program.
+
+IFFCO Tokio General Insurance Company Limited (April 2023 – July 2023)
+
+Senior Executive, Reinsurance Department: Managed Facultative Inward and Outward processes, data analysis, and report preparation.
+
+CGI Information Systems and Management Consultants Pvt. Ltd. (December 2021 – March 2023)
+
+Business Analyst: Worked in Property and Casualty Insurance domain, on Ratabase and Edge Policy Administration System.
